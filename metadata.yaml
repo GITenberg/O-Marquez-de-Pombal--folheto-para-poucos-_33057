@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25927'
     url: http://www.gutenberg.org/2009/agents/25927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33057#O-Marquez-de-Pombal--folheto-para-poucos-
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2010-07-03'
 gutenberg_type: Text
