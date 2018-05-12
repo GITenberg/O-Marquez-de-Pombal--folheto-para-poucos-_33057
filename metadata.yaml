@@ -1,0 +1,30 @@
+_repo: O-Marquez-de-Pombal--folheto-para-poucos-_33057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cordeiro, Manoel Caldas
+    aliases:
+    - Caldas Cordeiro, Manuel
+    - Cordeiro, Manuel Caldas
+    birthdate: 1869
+    deathdate: 1914
+    gutenberg_agent_id: '25927'
+    url: http://www.gutenberg.org/2009/agents/25927
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33057'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Pombal, Sebastião José de Carvalho e Melo, Marquês de, 1699-1782'
+title: O Marquez de Pombal (folheto para poucos)
+url: http://www.gutenberg.org/ebooks/33057
